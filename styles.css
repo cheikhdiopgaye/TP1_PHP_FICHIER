@@ -1,0 +1,90 @@
+.titre{
+    text-align: center;
+    background-color: grey;
+    font-size: 20px;
+}
+
+.dim{
+    background-color: red;
+    text-align:center;
+    font-size: 18px;
+}
+
+
+  #nom3{
+    width:70%;
+  }
+  #inputEmail3{
+    width:70%;
+  }
+  #inputPassword2{
+    width:40%;
+  } 
+  #inputPassword3{
+    width:70%; 
+  }
+  #nom1,#email,#pass{
+    font-size:20px;
+    font-family:verdana;
+  
+  } 
+  #form1{
+    border:0px solid black;
+    width:80%;
+    margin-top:50px;
+    margin-left:140px;
+  }
+  #conn{
+    margin-left:450px;
+  }
+  h1{
+    font-size:80px;
+    color:white;
+  }
+  #t1 th{
+      font-size:15px;
+      color: black;
+  }
+  .rouge{
+            background-color:red;
+            text-align:center;
+             font-size: 18px;
+        }
+
+ .liste{
+          text-align:center;
+          font-size: 18px;
+ }
+ a:hover{
+  text-decoration:none;
+}
+.section-padding {
+padding: 60px 0;
+}
+.bottom {
+  background-color: #0a1c2e;
+}
+.bottom .copyright {
+  color: #e5e5e5;
+  font-weight: 600;
+}
+.copyright a {
+  color: #f2ff49;
+  margin-left: 3px;
+  padding-right: 3px;
+}
+.bottom p {
+  margin-bottom: 0;
+  line-height: 50px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.copyright p span {
+  color: #d1caca;
+}
+.bottom .copyright p, .bottom .copyright a:hover{
+  color: #6c6d83;
+}
+.gr{
+  color:m
+}
